@@ -1,6 +1,5 @@
 import Card from './shared/Card'
 import { Navigate, useNavigate, Routes, Route } from 'react-router-dom'
-import Button from './shared/Button'
 
 const Post = () => {
 
